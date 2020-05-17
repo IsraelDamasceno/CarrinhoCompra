@@ -1,0 +1,9 @@
+C:\Users\raelu\Desktop\CarrinhoCompra\CarrinhoCompra\src\CarrinhoCompra.Domain\bin\Debug\netcoreapp3.1\CarrinhoCompra.Domain.deps.json
+C:\Users\raelu\Desktop\CarrinhoCompra\CarrinhoCompra\src\CarrinhoCompra.Domain\bin\Debug\netcoreapp3.1\CarrinhoCompra.Domain.dll
+C:\Users\raelu\Desktop\CarrinhoCompra\CarrinhoCompra\src\CarrinhoCompra.Domain\bin\Debug\netcoreapp3.1\CarrinhoCompra.Domain.pdb
+C:\Users\raelu\Desktop\CarrinhoCompra\CarrinhoCompra\src\CarrinhoCompra.Domain\obj\Debug\netcoreapp3.1\CarrinhoCompra.Domain.csprojAssemblyReference.cache
+C:\Users\raelu\Desktop\CarrinhoCompra\CarrinhoCompra\src\CarrinhoCompra.Domain\obj\Debug\netcoreapp3.1\CarrinhoCompra.Domain.csproj.CoreCompileInputs.cache
+C:\Users\raelu\Desktop\CarrinhoCompra\CarrinhoCompra\src\CarrinhoCompra.Domain\obj\Debug\netcoreapp3.1\CarrinhoCompra.Domain.AssemblyInfoInputs.cache
+C:\Users\raelu\Desktop\CarrinhoCompra\CarrinhoCompra\src\CarrinhoCompra.Domain\obj\Debug\netcoreapp3.1\CarrinhoCompra.Domain.AssemblyInfo.cs
+C:\Users\raelu\Desktop\CarrinhoCompra\CarrinhoCompra\src\CarrinhoCompra.Domain\obj\Debug\netcoreapp3.1\CarrinhoCompra.Domain.dll
+C:\Users\raelu\Desktop\CarrinhoCompra\CarrinhoCompra\src\CarrinhoCompra.Domain\obj\Debug\netcoreapp3.1\CarrinhoCompra.Domain.pdb
